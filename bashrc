@@ -107,5 +107,3 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 
 fi
 
-export MPD_HOST="afbnet.dlinkddns.com"
-export MPD_PORT="6600"
